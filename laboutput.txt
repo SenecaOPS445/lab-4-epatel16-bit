@@ -102,7 +102,7 @@ test_e_function_is_digits (__main__.lab4e.test_e_function_is_digits)
 [Lab 4] - [Investigation 2] - [Part 2] - Functions - is_digits("8503") has correct output ... ok
 
 ----------------------------------------------------------------------
-Ran 51 tests in 0.061s
+Ran 51 tests in 0.053s
 
 OK
 OPS445 Lab Report - System Information for running ./CheckLab4.py
@@ -113,5 +113,5 @@ OPS445 Lab Report - System Information for running ./CheckLab4.py
     Python version: 3123
     OS Platform: linux
     Working Directory: /home/epatel16/ops445/lab4
-    Start at: Mon Feb  3 20:59:51 2025
+    Start at: Mon Feb  3 21:04:14 2025
 =================================================================
